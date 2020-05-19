@@ -15,4 +15,4 @@ do
     fi
 done
 
-Release/lighting.exe $N $envs $M $objs
+Debug/lighting.exe $N $envs $M $objs
